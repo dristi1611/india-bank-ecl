@@ -45,7 +45,7 @@ I assume existing standard-asset provisions are at today's minimum rates, becaus
 
 ## Sources
 
-Everything is public: the RBI ECL Directions (27 April 2026) and IRACP Directions, the banks' Q2 FY27 investor presentations, results and call transcripts, and reports from Crisil (May 2026) and ICRA (April 2026). The Sources sheet has the links. Every input was checked against the bank's own slides or results filing; the Verification log sheet lists all 58 checks and what changed. The one gap is DCB, whose loan mix, Tier 1 and RWA come from a summary of its slides because its Q2 presentation wasn't reachable. I didn't use any employer data or paid databases.
+Everything is public: the RBI ECL Directions (27 April 2026) and IRACP Directions, the banks' Q2 FY27 investor presentations, results and call transcripts, and reports from Crisil (May 2026) and ICRA (April 2026). The Sources sheet has the links. Every input was checked against the bank's own slides or results filing; the Verification log sheet lists all 58 checks and what changed. I didn't use any employer data or paid databases.
 
 I used an AI assistant to help extract numbers from the presentations and speed up building the spreadsheet. The method, assumptions and conclusions are my own.
 
